@@ -6,6 +6,8 @@ Student: Maria Vovk
 
 Group: I-23
 
+Email: vovkmaria1202@gmail.com
+
 Course: Python programming, semester 1
 
 
@@ -19,6 +21,4 @@ Course: Python programming, semester 1
 \- practice4 - loops
 
 \- practice5 - functions
-
-
 
